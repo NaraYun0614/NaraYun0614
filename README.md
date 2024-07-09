@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Nara Yun
-- 👀 I’m interested in ...
+- 👀 I’m interested in Cybersecurity Software Engineering and Artificial intelligence 
 - 🌱 I’m currently learning: Software Engineering at McGill University
 - 📫 How to reach me: nara.yun@mail.mcgill.ca
 - 😄 Pronouns: She/Her
