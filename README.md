@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Nara Yun
-- 👀 I’m interested in Full-Stack Development and Artificial intelligence 
+- 👀 I’m interested in Full-Stack Development, Android development & Testing and Artificial intelligence 
 - 🌱 I’m currently learning: Major in Software Engineering and minor in artificial intelligence at McGill University (Currently U3)
 - 📫 How to reach me: nara.yun@mail.mcgill.ca
 - 😄 Pronouns: She/Her
