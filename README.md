@@ -1,7 +1,7 @@
 <h1 align="center">👋 Hi, I’m Nara Yun</h1>
 
 # 💫 About Me:
-I am a third-year software engineering student at McGill University, interested in Full-Stack Development, Android development, Testing and Machine Learning.
+I am a U4 software engineering student at McGill University, interested in Full-Stack Development, Android development, Testing and Machine Learning.
 
 ## 🌐 Connect with me:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nara-yun/)
